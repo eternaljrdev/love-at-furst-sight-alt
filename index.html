@@ -82,6 +82,9 @@ p{margin:0 0 14px;color:var(--ink2)}
   .brandtext{display:none}
   .brandmark{width:24px}
   .menu-btn{display:block}
+  /* the menu button rides on the pill itself — an opaque background would
+     punch a hole in the scroll-progress sweep behind it */
+  .menu-btn{background:transparent}
   .mobilemenu{
     position:fixed;top:76px;left:14px;right:14px;z-index:59;
     background:#fff;border-radius:var(--r-m);padding:18px 24px;
