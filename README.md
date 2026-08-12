@@ -1,4 +1,4 @@
-# love-at-furst-sight-alt
+# love-at-furst-sight
 
 Love at Furst Sight — dog boarding & daycare homepage mockup, restyled in the Watt design language (butter-cream surfaces, indigo ink, DM Sans / Inter Tight, one sunset gradient).
 
