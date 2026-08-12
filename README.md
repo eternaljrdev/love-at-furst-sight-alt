@@ -1,4 +1,4 @@
-# love-at-furst-sight — Creamy Gradients
+# Love at Furst Sight — Creamy Gradients
 
 The earlier design direction for the Love at Furst Sight homepage, in the Dit Is
 Watt design language: butter-cream surfaces, indigo ink, DM Sans / Inter Tight,
