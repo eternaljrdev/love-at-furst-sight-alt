@@ -1,11 +1,24 @@
-# love-at-furst-sight-alt
+# love-at-furst-sight — Editorial Venture
 
-Love at Furst Sight — dog boarding & daycare homepage mockup, restyled in the Watt design language (butter-cream surfaces, indigo ink, DM Sans / Inter Tight, one sunset gradient).
+A parked design direction for the Love at Furst Sight homepage, kept alongside
+the live one on `main`. Deep forest ground, Fraunces at display size and light
+weight, a green-beige field, and chartreuse used as a text highlighter rather
+than a fill.
 
 ## Contents
-- `index.html` — fully self-contained standalone build (photos, fonts, GSAP and the design-system bundle inlined). Open directly in any browser; works offline.
+- `index.html` — fully self-contained standalone build (Fraunces and all
+  photography inlined as data URIs). Open directly in any browser; works
+  offline. Vanilla JS, no framework and no build step.
 
 ## Sections
-Announcement bar · nav (with mobile menu) · hero with booking CTA · testimonial carousel · service pricing cards · values/details · booking section with sun-to-moon scroll arc · animated footer.
+Nav with the combination mark · hero carrying the brand mark as a 110vh
+watermark · "We speak dog." with a one-line dog drawn as a single stroked path ·
+a pinned programme index whose four cards swipe in from the right, one beat of
+scroll apart · full-bleed forest trail band · pin-and-release story cards ·
+booking section · footer lockup that settles out of scale.
 
-Built from https://github.com/eternaljrdev/love-at-furst-sight with the Watt design system.
+## Branches
+- `main` — the live direction, Soft Brutalist Editorial.
+- `soft-brutalist` — the design branch `main` merges from.
+- `editorial-venture` — this one.
+- `creamy-gradients` — the earlier Dit Is Watt direction, kept as a standing copy.
